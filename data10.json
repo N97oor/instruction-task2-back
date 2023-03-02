@@ -4,79 +4,48 @@
         "fname": "maha",
         "lname": "hossam",
         "city": "cairo",
-        "age": 26
-    },
-    {
-        "id": 5,
-        "fname": "tasneem",
-        "lname": "mustafa",
-        "city": "mansoura",
-        "age": 24
+        "age": 26,
+        "job": "surgon"
     },
     {
         "id": 2,
         "fname": "tasneem",
         "lname": "mustafa",
         "city": "mansoura",
-        "age": 24
+        "age": 24,
+        "job": "teacher"
     },
     {
         "id": 3,
         "fname": "tasneem",
         "lname": "mustafa",
         "city": "mansoura",
-        "age": 24
+        "age": 24,
+        "job": "driver"
     },
     {
         "id": 4,
         "fname": "tasneem",
         "lname": "mustafa",
         "city": "mansoura",
-        "age": 24
+        "age": 24,
+        "job": "tour duide"
     },
     {
-        "id": 6,
-        "fname": "ahmed",
-        "lname": "mohamed",
+        "id": 5,
+        "fname": "tasneem",
+        "lname": "mustafa",
         "city": "mansoura",
-        "age": 24
-    },
-    {
-        "id": 7,
-        "fname": "islam",
-        "lname": "mohamed",
-        "city": "mansoura",
-        "age": 24
-    },
-    {
-        "id": 8,
-        "fname": "mervat",
-        "lname": "mohamed",
-        "city": "mansoura",
-        "age": 24
-    },
-    {
-        "id": 9,
-        "fname": "ali",
-        "lname": "ahmed",
-        "city": "iraq",
-        "age": 40,
-        "job": "programmer"
-    },
-    {
-        "id": 10,
-        "fname": "ali",
-        "lname": "ahmed",
-        "city": "iraq",
-        "age": 40,
-        "job": "engineer"
+        "age": 24,
+        "job": "swimmer"
     },
     {
         "id": 11,
         "fname": "ali",
         "lname": "ahmed",
         "city": "iraq",
-        "age": 40
+        "age": 40,
+        "job": "pilot"
     },
     {
         "id": 12,
